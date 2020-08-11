@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/*
+1-setting
+*/
+/*htmlの開始*/
+html * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Courier New", monospace;
+  font-weight: bold;
+}
+
+body tr {
+  border: solid;
+}
+
+body table tbody tr button {
+  border: solid 1px gray;
+  border-radius: 10px;
+  margin: 5px;
+  background-color: white;
+}
+/*# sourceMappingURL=style.css.map */
